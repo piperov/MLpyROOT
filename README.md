@@ -15,7 +15,8 @@ If running this for a first time, you'll need to
       * run `build_MLpyROOT_kernel.ipynb`
   
 
-When you have the environment and kernel setup you can try the example:
+When you have the environment and kernel setup you can try the example
+
   3. Load the example notebook `example.ipynb`
   4. Load the new kernel `Kernel -> Change Kernel -> MLpyROOT`
   5. Try the example by clicking through the individual cells in order, or run them all `Cell -> Run All`
